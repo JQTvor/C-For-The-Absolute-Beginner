@@ -1,0 +1,6 @@
+D:\Users\Jonny\source\repos\PFAB Chapter 20\PFAB Chapter 20\bin\Debug\PFAB Chapter 20.exe.config
+D:\Users\Jonny\source\repos\PFAB Chapter 20\PFAB Chapter 20\bin\Debug\PFAB Chapter 20.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 20\PFAB Chapter 20\bin\Debug\PFAB Chapter 20.pdb
+D:\Users\Jonny\source\repos\PFAB Chapter 20\PFAB Chapter 20\obj\Debug\PFAB Chapter 20.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\PFAB Chapter 20\PFAB Chapter 20\obj\Debug\PFAB Chapter 20.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 20\PFAB Chapter 20\obj\Debug\PFAB Chapter 20.pdb

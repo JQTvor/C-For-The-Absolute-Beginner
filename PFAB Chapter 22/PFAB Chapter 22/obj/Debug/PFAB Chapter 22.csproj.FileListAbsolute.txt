@@ -1,0 +1,7 @@
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\bin\Debug\PFAB Chapter 22.exe.config
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\bin\Debug\PFAB Chapter 22.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\bin\Debug\PFAB Chapter 22.pdb
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\obj\Debug\PFAB Chapter 22.csprojAssemblyReference.cache
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\obj\Debug\PFAB Chapter 22.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\obj\Debug\PFAB Chapter 22.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 22\PFAB Chapter 22\obj\Debug\PFAB Chapter 22.pdb

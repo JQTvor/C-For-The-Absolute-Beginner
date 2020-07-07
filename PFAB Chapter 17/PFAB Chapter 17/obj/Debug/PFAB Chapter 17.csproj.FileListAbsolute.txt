@@ -1,0 +1,7 @@
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\bin\Debug\PFAB Chapter 17.exe.config
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\bin\Debug\PFAB Chapter 17.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\bin\Debug\PFAB Chapter 17.pdb
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\obj\Debug\PFAB Chapter 17.csprojAssemblyReference.cache
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\obj\Debug\PFAB Chapter 17.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\obj\Debug\PFAB Chapter 17.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 17\PFAB Chapter 17\obj\Debug\PFAB Chapter 17.pdb
