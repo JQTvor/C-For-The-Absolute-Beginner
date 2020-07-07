@@ -1,0 +1,6 @@
+D:\Users\Jonny\source\repos\PFAB Chapter 13\PFAB Chapter 13\bin\Debug\PFAB Chapter 13.exe.config
+D:\Users\Jonny\source\repos\PFAB Chapter 13\PFAB Chapter 13\bin\Debug\PFAB Chapter 13.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 13\PFAB Chapter 13\bin\Debug\PFAB Chapter 13.pdb
+D:\Users\Jonny\source\repos\PFAB Chapter 13\PFAB Chapter 13\obj\Debug\PFAB Chapter 13.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\PFAB Chapter 13\PFAB Chapter 13\obj\Debug\PFAB Chapter 13.exe
+D:\Users\Jonny\source\repos\PFAB Chapter 13\PFAB Chapter 13\obj\Debug\PFAB Chapter 13.pdb

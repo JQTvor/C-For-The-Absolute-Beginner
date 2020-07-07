@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFAB Chapter 11", "PFAB Chapter 11\PFAB Chapter 11.csproj", "{7644D5BC-3473-4022-9B81-E78001F4556C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7644D5BC-3473-4022-9B81-E78001F4556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7644D5BC-3473-4022-9B81-E78001F4556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7644D5BC-3473-4022-9B81-E78001F4556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7644D5BC-3473-4022-9B81-E78001F4556C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3072A76A-9135-4461-8B18-76E28EB70522}
+	EndGlobalSection
+EndGlobal
